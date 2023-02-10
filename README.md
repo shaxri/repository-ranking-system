@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Design GitHub repositories rank by given date range commits count
 
 ## Step 1: Outline use cases and constraints
