@@ -78,7 +78,7 @@ Without an interviewer to address clarifying questions, we'll define some use ca
 
 > Outline a high level design with all important components.
 
-![Imgurl](InitialRRS.PNG)
+![Imgurl](./InitialRRS.PNG)
 
 ## Step 3: Design core components
 
@@ -267,7 +267,7 @@ Response:
 
 > Identify and address bottlenecks, given the constraints.
 
-![scalable design](ScalableRRS.png)
+![scalable design](./ScalableRRS.png)
 
 **Important: Do not simply jump right into the final design from the initial design!**
 
